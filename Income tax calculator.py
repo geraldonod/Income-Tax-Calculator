@@ -15,3 +15,4 @@ else:
     user_tax_payable += (user_income - 20000) * 20 / 100
 
 #print result
+print("Total tax to pay is", user_tax_payable)
